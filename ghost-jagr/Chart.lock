@@ -1,0 +1,6 @@
+dependencies:
+- name: mysql-jagr
+  repository: file://../mysql-jagr
+  version: 0.1.0
+digest: sha256:812218de0006233d4b9d9b8584fb0a41eaa21ff52beb94e711893dac21240d87
+generated: "2021-05-20T18:37:45.380431-05:00"
